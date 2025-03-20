@@ -1,4 +1,4 @@
-# 🌌 Welcome to **sstardustt**'s Cosmic Repository 🚀
+# 🌌 Welcome to **sstardustt**'s Cosmic Profile 🚀
 
 ![Galaxy Background](https://github.com/sstardustt/sstardustt.github.io/blob/main/jeremy-thomas-E0AHdsENmDg-unsplash.jpg)  
 *Exploring the universe of code and security...*
